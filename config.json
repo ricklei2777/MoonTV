@@ -73,10 +73,6 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     },
-    "hiys": {
-      "api": "http://114.132.251.111:999/lvdou_api.php/v1.vod",
-      "name": "Hi影视"
-    },
     "huiyuanyy": {
       "api": "http://360yy.cn/api.php/app/",
       "name": "会员影院"
@@ -100,7 +96,6 @@
     "jufeng": {
       "api": "http://jf.35ys.cc/lehailb_api.php/v1.vod",
       "name": "飓风影视"
-    },
     }
   }
 }
